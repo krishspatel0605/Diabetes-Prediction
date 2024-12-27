@@ -1,0 +1,11 @@
+body {
+
+    background-image: url('/static/background.jpg');
+    
+    background-size: cover; /* Ensures the image covers the entire background */
+    
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    
+    background-attachment: fixed; /* Keeps the background fixed in place */
+    
+    }
